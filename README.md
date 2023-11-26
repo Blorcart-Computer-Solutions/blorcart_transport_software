@@ -4,6 +4,7 @@ Este software es Libre y Gratuito, el desarrollador principal es Borja Velasco c
 El software no está terminado y no se está usando en la infraestructura del pais en este momento, mas adelante se informará de cualquier cambio.
 ## AVISO DE USO
 **EL GOBIERNO DE BLORCART NO RECOMIENDA EL USO DE ESTE SOFTWARE A NINGÚN GOBIERNO AL NO ESTAR TERMINADO**
+
 **ATENCIÓN: BLORCART ES UN PAIS FICTICIO Y SU GOBIERNO NO EJERCE AUTORIDAD REAL SOBRE NINGÚN TERRITORIO, NO USEN ESTE SOFTWARE EN NINGUNA INFRAESTRUCTURA EN LA REALIDAD, NO CUMPLE LOS ESTANDARES INTERNACIONALES Y ESTÁ DISEÑADO PARA UN SERVIDOR DE MINECRAFT**
 ### AMBITO DE EXISTENCIA DE BCS
 #### En servidores
